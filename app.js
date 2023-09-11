@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', () => {
       taskList.appendChild(taskItem);
       taskInput.value = '';
 
-      // You can add logic here to send the task to the server (e.g., via an API).
+      // Add logic here to send the task to the server (e.g., via an API).
     }
   });
 });
